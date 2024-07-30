@@ -76,3 +76,7 @@ Schedule code execution using setTimeout and setInterval.
 ## 19. String Methods: includes(), startsWith(), endsWith() 📜
 
 Use modern string methods to perform common string operations.
+
+## 20. Using console Effectively for Debugging 🛠️
+
+Leverage various console methods for more effective debugging.
